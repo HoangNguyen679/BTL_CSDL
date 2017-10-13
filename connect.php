@@ -1,0 +1,1 @@
+<?php $db = pg_connect("host=localhost port=5432 dbname=btl user=postgres password=12345678"); ?>

@@ -1,0 +1,45 @@
+.title {
+	font-family: serif;
+	font-size: 200%;
+	font-weight: bold;
+	text-transform: uppercase;
+	word-spacing: inherit;
+	padding: 10px;
+}
+
+table {
+	font-size: 125%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+th, td {
+	 padding: 7px 10px 10px 10px;
+ }
+
+ th {
+	 letter-spacing: 0.1em;
+	 font-size: 100%;
+	 text-align: left;
+ }
+
+ input {
+ 	font-size: 120%;
+ 	color: #5a5854;
+ 	padding: 2px 2px 2px 2px;
+ }
+
+input[type="submit"] {
+	width: 100px;
+	margin-left: 700px ;
+	padding-left: 5px;
+	text-align: center;
+	font-size: 120%;
+}
+
+input[type="reset"] {
+	width: 100px;
+	padding-left: 5px;
+	text-align: center;
+	font-size: 120%;
+}
